@@ -6,5 +6,5 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
 
     const subject = `Portfolio Contact from ${name}`;
     const body = `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
-    window.location.href = `mailto:rk.prassana.dev@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:dhairyadharia38@gmail.com?subject=${subject}&body=${body}`;
 });
